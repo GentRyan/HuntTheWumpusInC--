@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1295059303 source:/home/bit/C++Progs/wumpus/main.cpp
+	"main.h"
+
+1295059329 source:/home/bit/C++Progs/wumpus/player.cpp
+	"player.h"
+
+1295059309 /home/bit/C++Progs/wumpus/player.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	"wumpus_lair.h"
+
+1295055136 /home/bit/C++Progs/wumpus/wumpus_lair.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1295058121 source:/home/bit/C++Progs/wumpus/wumpus_lair.cpp
+	"wumpus_lair.h"
+
+1295054652 /home/bit/C++Progs/wumpus/main.h
+	<iostream>
+	"player.h"
+
